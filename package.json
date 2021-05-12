@@ -14,7 +14,15 @@
   "author": "David Angarita <david@dangwebs.com>",
   "license": "MIT",
   "bin": {
-    "dang-random-msg": "./bin/global.js"
+    "dang-random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidangarita1/npm-dang-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidangarita1/npm-dang-random-messages/issues"
+  },
+  "homepage": "https://github.com/davidangarita1/npm-dang-random-messages#readme"
 }
