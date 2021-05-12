@@ -15,7 +15,7 @@ dang-random-msg
 ```
 
 # Contributing
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [dang-random-msg](https://github.com/)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [dang-random-msg](https://github.com/davidangarita1/npm-dang-random-messages)
 
 # License
 dang-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
